@@ -122,5 +122,3 @@ A 1:20 scale model classroom was constructed with foam boards to evaluate mechan
 ## 👥 Contributors
 
 * **Doyeon Lim** ([@dylim-326](https://github.com/dylim-326)) — Biomedical Engineering, Hankuk Univ. of Foreign Studies
-* **A-yeon Yang** — Biomedical Engineering, Hankuk Univ. of Foreign Studies
-* **A-young Cho** — Biomedical Engineering, Hankuk Univ. of Foreign Studies
